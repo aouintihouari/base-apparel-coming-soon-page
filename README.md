@@ -18,11 +18,11 @@ This is a solution to the **Base Apparel Coming Soon** challenge on [Frontend Me
 
 #### Mobile View
 
-![Mobile Screenshot](./screenshots/mobile-view.png)
+![Mobile Screenshot](./images/screenshot-mobile.png)
 
 #### Desktop View
 
-![Desktop Screenshot](./screenshots/desktop-view.png)
+![Desktop Screenshot](./images/screenshot-desktop.png)
 
 ### Links
 
